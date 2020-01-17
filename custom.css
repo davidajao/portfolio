@@ -1,0 +1,43 @@
+#pic1{
+    margin-top: 30px;
+    height: 400px;
+}
+
+.about{
+    padding: 40px;
+    line-height: 39px;
+}
+
+#projects{
+    margin-top: 100px;
+}
+
+#projects h3{
+    margin-bottom: 80px;
+}
+
+#projects h4{
+    margin-top: 50px;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .projectImg{
+      width: 100%;
+  }
+
+
+footer{
+    margin-top: 40px;
+    background-color:rgb(41, 41, 41);
+    height: 70px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    font-size: 16px;
+    color: grey;
+}
